@@ -21,4 +21,4 @@ In this code, you find some educational games with the fun of the lovable Sesame
 This code was made with pure love from a Sesame Street fan. I made each little game thinking of the character's personality and wanted to make the user feel a bit more inside the street. If you like Sesame Street you'll get some little silly references, at least I hope so! Thank you for checking the code.
 
 
-<p align="center">![IMG_20250604_011229](https://github.com/user-attachments/assets/4e80935c-08b2-4874-b074-7dec73c81f4d)</p>
+<img align="center">![IMG_20250604_011229](https://github.com/user-attachments/assets/4e80935c-08b2-4874-b074-7dec73c81f4d)</img>
