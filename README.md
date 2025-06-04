@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Sesame Street Adventures Text-game!</h1>
 
-- You can input the answers in CAPS LOCK or without it, the code won't break
+- The answers are case insensitive, don't worry about Caps Lock!
 - There's 7 individual different games with their own stories.
 - Have fun!
 
